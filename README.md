@@ -1,6 +1,5 @@
-## Public Deisgn Collective Open Data Repository
-# Strengthening design practice in Latin America's public sector
-*A multi-level, open-source dataset on design practices in Latin America's public sector*
+# Public Deisgn Collective Open Data Repository
+*A multi-level, open-source data repository on design practices in Latin America's public sector*
 
 This repository contains the datasets and documentation produced through the Public Design Collective’s multi-phase research on public-sector design and innovation across Latin America. It expands the work introduced in the organization’s main profile and provides **full technical detail**, including data dictionaries, methods, files, and licensing.
 

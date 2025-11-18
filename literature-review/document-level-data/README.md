@@ -1,5 +1,7 @@
 # 📘 Document-Level Dataset  
+
 **Research Phase 1: Literature Review** 
+
 This dataset contains **document-level metadata** extracted from a multilingual literature review on public-sector design and innovation in Latin America. Each row represents a **single publication**, which may reference one or more innovation units, organizations, projects, or individuals.
 
 This dataset forms **Level 0: Publication / Source** of the multi-level taxonomy used across the repository.

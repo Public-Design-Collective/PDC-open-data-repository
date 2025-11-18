@@ -1,32 +1,26 @@
-## Strengthening design practice in Latin America's public sector
+## Public Deisgn Collective Open Data Repository
+# Strengthening design practice in Latin America's public sector
+*A multi-level, open-source dataset on design practices in Latin America's public sector*
 
-A multi-level, open-source research repository documenting public-sector design, innovation labs, and design-informed governance across Latin America.
+This repository contains the datasets and documentation produced through the Public Design Collective’s multi-phase research on public-sector design and innovation across Latin America. It expands the work introduced in the organization’s main profile and provides **full technical detail**, including data dictionaries, methods, files, and licensing.
 
-**Design** has the potential to transform how policies and services are imagined, built, and delivered—shifting innovation toward community-centered and institutionally grounded solutions.
+## 🧭 Research Context
 
-We're a research initiative at **Northeastern University** making our datasets publicly available to advance research and practice in public sector design across Latin America.
+This repository is part of a broader research effort examining:
 
-This repository houses the datasets created through our ongoing, multi-phase research program.
+- Design integration in public governance  
+- Institutional capacity for innovation  
+- Regional characteristics of public-sector design  
+- Gaps and strengths in the ecosystem  
+- Longitudinal patterns of innovation labs  
 
-**Status:**  
-This repository is actively under development. Several components—including methodological documentation, interviews, survey instruments, and additional datasets—will be added as the research progresses.
+While the organization profile provides a high-level overview, this repository delivers the **technical backbone** of the project.
 
+For a general overview of the Public Design Collective’s mission and research areas, visit the  
+➡️ **Organization Profile:** https://github.com/Public-Design-Collective  
+➡️ **Website:** https://publicdesigncollective.com
 
-## 💡 Our Research
-
-The Public Design Collective explores how design can strengthen public policy and service innovation across Latin America. Our work examines:
-- How design is integrated into public policy and governance
-- Institutional capacity for sustaining design practice
-- Regional approaches to public-sector innovation
-- Strengths, barriers, and gaps within the ecosystem
-- Longitudinal patterns in innovation labs and government design teams
-
-Learn more at [our site](https://publicdesigncollective.com).
-
-Contact us via [LinkedIn](https://www.linkedin.com/company/public-design-collective/).
-
-
-## 🗂️ Our Datasets
+## 📘 About This Repository & The Datasets
 
 We aim to collect and share data on:
 - Public-sector design practices  
@@ -35,54 +29,46 @@ We aim to collect and share data on:
 - Practitioners, teams, and organizational roles  
 - Case studies and policy interventions *(future phases)*
 
-All datasets are open access and include (or will include):
+**Status:**  
+This repository is actively under development. Several components—including methodological documentation, interviews, survey instruments, and additional datasets—will be added in future phases.
+
+Datasets may include:
 - Data dictionaries and documentation  
 - Citation information  
 - License details  
 - Sample code and usage examples  
-- Notes on limitations and methodology  
+- Notes on limitations and methodology 
 
-## 📊 License & Using Our Data 
+## 📊 License & Using Our Data
 
-You are welcome to download, analyze, and build upon any dataset in this repository.  
-All datasets are open access and include:
-
-- Data dictionaries and documentation  
-- Citation information  
-- License details  
-- Sample code and usage examples  
-- Notes on limitations and methodology  
+All datasets and code in this repository are open access.
 
 This repository uses a **dual-license structure**:
 
-- **MIT License** — applies to all code, scripts, and software components.  
-  See the [MIT License](./LICENSE).
+### **MIT License (for code)**
+Applies to all scripts, utilities, and software components.  
+See the [MIT License](./LICENSE).
 
-- **CC BY 4.0 International License** — applies to all datasets and research outputs.  
-  See the [CC BY 4.0 License](./LICENSE-CC-BY-4.0).
-
+### **CC BY 4.0 International License (for data)**
+Applies to all datasets and research outputs.  
+See the [CC BY 4.0 License](./LICENSE-CC-BY-4.0).
 
 Users are free to reuse the code with minimal restrictions and to adapt and build upon datasets with attribution.
 
-  
-**Citation:**  
-Public Design Collective. (2025). *Latin America Public Innovation Repository* (v1.0). Northeastern University. https://github.com/Public-Design-Collective/
+### 📄 Citation
+If you use these datasets, please cite:
 
+**Public Design Collective. (2025). _Latin America Public Innovation Repository_ (v1.0). Northeastern University. https://github.com/Public-Design-Collective/pdc-open-data-repository**
 
-## 🤝 Get Involved
-
-- **Use our data**: Download, analyze, and cite our datasets
-- **Share findings**: We'd love to hear how you're using the data
-- **Contribute**: Have relevant data to share? [Contact us](mailto:t.rosado@northeastern.edu)
-
+---
 
 ## 📁 Folder Structure
 
 ```text
 /PDC-open-data-repository/
 │
-├── LICENSE                  ← MIT License (code + scripts)
-├── LICENSE-CC-BY-4.0        ← CC BY 4.0 (datasets)
+├── LICENSE                  ← MIT License (code)
+├── LICENSE-CC-BY-4.0        ← CC BY 4.0 License (datasets)
 ├── README.md
 ├── research_framework.pdf        (coming soon)
 │
@@ -100,7 +86,9 @@ Public Design Collective. (2025). *Latin America Public Innovation Repository* (
     │
     ├── institutional-level-data/ (coming soon)
     ├── organization-level-data/  (coming soon)
-    └──individual-level-data/    (coming soon)
+    └── individual-level-data/    (coming soon)
+
+
 
 
 

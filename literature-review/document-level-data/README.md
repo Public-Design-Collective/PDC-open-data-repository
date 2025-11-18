@@ -1,6 +1,5 @@
 # 📘 Document-Level Dataset  
 **Research Phase 1: Literature Review** 
-*Public Design Collective — PDC Open Data Repository*
 ---
 This dataset contains **document-level metadata** extracted from a multilingual literature review on public-sector design and innovation in Latin America. Each row represents a **single publication**, which may reference one or more innovation units, organizations, projects, or individuals.
 

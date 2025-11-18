@@ -57,7 +57,7 @@ Users are free to reuse the code with minimal restrictions and to adapt and buil
 ### 📄 Citation
 If you use these datasets, please cite:
 
-**Public Design Collective. (2025). _Latin America Public Innovation Repository_ (v1.0). Northeastern University. https://github.com/Public-Design-Collective/pdc-open-data-repository**
+**Public Design Collective. (2025). *PDC Open Data Repository* (Version 1.0) [Data set]. Northeastern University. https://github.com/Public-Design-Collective/pdc-open-data-repository**
 
 ---
 

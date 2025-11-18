@@ -73,15 +73,17 @@ If you use these datasets, please cite:
 │
 └── literature-review/
     │
+    ├── document-level-data/
+    │     ├── README.md
+    │     └── docLevel_LitReviewAnalysis.tsv
+    │
+    │
+    │
     ├── methodology/              (coming soon)
     │     ├── README.md
     │     ├── code_files/
     │     ├── data_dictionary.md
     │     └── process_visualization_files/
-    │
-    ├── document-level-data/
-    │     ├── README.md
-    │     └── docLevel_LitReviewAnalysis.tsv
     │
     ├── institutional-level-data/ (coming soon)
     ├── organization-level-data/  (coming soon)

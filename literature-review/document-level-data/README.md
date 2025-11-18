@@ -5,6 +5,9 @@ This dataset contains **document-level metadata** extracted from a multilingual 
 
 This dataset forms **Level 0: Publication / Source** of the multi-level taxonomy used across the repository.
 
+For a general overview of the Public Design Collective’s mission and research areas, visit the  
+➡️ **Organization Profile:** https://github.com/Public-Design-Collective  
+➡️ **Website:** https://publicdesigncollective.com
 
 ## 🧭 Dataset Purpose  
 This dataset captures the structure and content of the academic and grey literature addressing:

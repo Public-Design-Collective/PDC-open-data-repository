@@ -1,12 +1,11 @@
 # 📘 Document-Level Dataset  
 **Research Phase 1: Literature Review** 
 *Public Design Collective — PDC Open Data Repository*
-
+---
 This dataset contains **document-level metadata** extracted from a multilingual literature review on public-sector design and innovation in Latin America. Each row represents a **single publication**, which may reference one or more innovation units, organizations, projects, or individuals.
 
 This dataset forms **Level 0: Publication / Source** of the multi-level taxonomy used across the repository.
 
----
 
 ## 🧭 Dataset Purpose  
 This dataset captures the structure and content of the academic and grey literature addressing:
@@ -20,7 +19,7 @@ This dataset captures the structure and content of the academic and grey literat
 
 It enables descriptive analysis of the literature base and supports cross-linking to higher levels (Institutional, Organizational, Project, Individual) in subsequent datasets.
 
----
+
 
 ## 📁 File Included
 
@@ -30,9 +29,7 @@ It enables descriptive analysis of the literature base and supports cross-linkin
 - **Selected Sources languages:** English, Spanish, Portuguese
 - **Time span:** 2007 to 2025
 
----
 
-## 📊 Schema & Data Dictionary  
 
 ## 📊 Schema & Data Dictionary  
 Below is the field-by-field data dictionary using the exact column labels in  
@@ -61,7 +58,6 @@ Below is the field-by-field data dictionary using the exact column labels in
 | **Count of Organizations** | integer | Number of organizations referenced in the document (→ connection to Level 1). | `1`, `4` |
 | **Count of Projects** | integer | Number of projects or initiatives mentioned (→ Level 2). | `0`, `3` |
 | **Count of Individuals** | integer | Number of practitioners/actors named (→ Level 3). | `1`, `7` |
-|
 
 
 

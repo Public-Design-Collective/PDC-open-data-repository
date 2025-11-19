@@ -26,7 +26,7 @@ We aim to collect and share data on:
 - Innovation labs and institutional models  
 - Project-level initiatives and design methods  
 - Practitioners, teams, and organizational roles  
-- Case studies and policy interventions *(future phases)*
+- Case studies and policy interventions
 
 **Status:**  
 This repository is actively under development. Several components—including methodological documentation, interviews, survey instruments, and additional datasets—will be added in future phases.
